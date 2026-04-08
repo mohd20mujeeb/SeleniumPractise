@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-07T11:46:21 IST" name="Default suite" finished-at="2026-04-07T11:46:26 IST" duration-ms="5452">
+  <suite started-at="2026-04-07T17:18:24 IST" name="Default suite" finished-at="2026-04-07T17:18:29 IST" duration-ms="5114">
     <groups>
     </groups>
-    <test started-at="2026-04-07T11:46:21 IST" name="Default test" finished-at="2026-04-07T11:46:26 IST" duration-ms="5452">
-      <class name="tutorialsninga.register.TC_RE_06">
-        <test-method signature="verifyRegisterNewsletterNo()[pri:0, instance:tutorialsninga.register.TC_RE_06@184497d1]" started-at="2026-04-07T11:46:21 IST" name="verifyRegisterNewsletterNo" finished-at="2026-04-07T11:46:26 IST" duration-ms="5386" status="PASS">
+    <test started-at="2026-04-07T17:18:24 IST" name="Default test" finished-at="2026-04-07T17:18:29 IST" duration-ms="5114">
+      <class name="tutorialsninga.register.TC_RE_09">
+        <test-method signature="registeWithSameEmail()[pri:0, instance:tutorialsninga.register.TC_RE_09@2289aca5]" started-at="2026-04-07T17:18:24 IST" name="registeWithSameEmail" finished-at="2026-04-07T17:18:29 IST" duration-ms="5055" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyRegisterNewsletterNo -->
-      </class> <!-- tutorialsninga.register.TC_RE_06 -->
+        </test-method> <!-- registeWithSameEmail -->
+      </class> <!-- tutorialsninga.register.TC_RE_09 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
